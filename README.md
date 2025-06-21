@@ -54,8 +54,8 @@
 
 ## 👥 Ekip
 
-* **Cihat Erensoy**
 * **Muhammet Cerrahoğlu**
+* **Cihat Erensoy**
 
 ## 📬 İletişim
 
